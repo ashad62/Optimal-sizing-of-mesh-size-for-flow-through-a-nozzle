@@ -1,0 +1,2 @@
+# Optimal-sizing-of-mesh-size-for-flow-through-a-nozzle
+I have Created a program for meshing and analysis of a nozzle by providing the size of the nozzle  and the amount of velocity and pressure to the nozzle the meshing and flow analysis of the nozzle can observed with graphical observation. this based on Python programming language with using numpy and matplotlib.pyplot libraries. this was one of my Internship projects.
